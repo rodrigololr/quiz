@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
     <div class="img"></div>
     <p class="sub-final">Quer saber mais sobre como começar essa transformação?</p>
-    <a href="www.google.com" target="_blank"><button class="button">Sim, quero saber mais!</button></a>
+    <a href="https://rodrigololr.github.io/pagina-de-vendas/" target="_blank"><button class="button">Sim, quero saber mais!</button></a>
     
   `
   }
